@@ -1,0 +1,56 @@
+13:58:57:822 INFO  MyLogger.info - Info message
+13:58:57:869 INFO  MyLogger.log - Log message
+13:58:57:870 ERROR MyLogger.error - error message!!!
+13:58:57:871 ERROR MyLogger.error - Beda!
+java.lang.RuntimeException: broken code
+	at LogDemo.main(LogDemo.java:13)
+14:01:38:881 DEBUG LogLevelDemo.main - Some trash info
+14:01:38:887 DEBUG LogLevelDemo.main - Some trash info
+14:01:38:887 DEBUG LogLevelDemo.main - Some trash info
+14:01:38:888 DEBUG LogLevelDemo.main - Some trash info
+14:01:38:888 DEBUG LogLevelDemo.main - Some trash info
+14:01:38:888 ERROR LogLevelDemo.main - Very important message
+14:05:03:276 ERROR LogLevelDemo.main - Very important message
+15:35:04:026 INFO  MyLogger.info - Going to URL: https://www.google.com/gmail/about/#
+15:35:09:407 INFO  MyLogger.info - Sign In button is displayed
+15:35:12:645 INFO  MyLogger.info - Entering of emailviktar.kimpel@gmail.com
+15:35:12:922 INFO  MyLogger.info - PressBy.cssSelector: #identifierNext
+15:35:13:964 INFO  MyLogger.info - Entering of password
+15:35:14:190 INFO  MyLogger.info - PressBy.cssSelector: #passwordNext
+15:38:13:959 INFO  MyLogger.info - Going to URL: https://www.google.com/gmail/about/#
+15:38:17:329 INFO  MyLogger.info - Sign In button is displayed
+15:38:19:421 INFO  MyLogger.info - Entering of email viktar.kimpel@gmail.com
+15:38:19:767 INFO  MyLogger.info - Press Next button
+15:38:20:843 INFO  MyLogger.info - Entering of password
+15:38:21:034 INFO  MyLogger.info - Press next button
+17:04:41:308 INFO  MyLogger.info - Going to URL: https://www.google.com/gmail/about/#
+17:04:44:848 INFO  MyLogger.info - Sign In button is displayed
+17:04:45:729 INFO  MyLogger.info - Saved screenshot: screenshots/scr30630301174040
+17:04:48:760 INFO  MyLogger.info - Entering of email viktar.kimpel@gmail.com
+17:04:49:341 INFO  MyLogger.info - Saved screenshot: screenshots/scr30633969992778
+17:04:49:378 INFO  MyLogger.info - Press Next button
+17:04:50:219 INFO  MyLogger.info - Saved screenshot: screenshots/scr30634729028176
+17:04:50:267 INFO  MyLogger.info - Entering of password
+17:04:50:561 INFO  MyLogger.info - Press next button
+17:04:51:144 INFO  MyLogger.info - Saved screenshot: screenshots/scr30635773651068
+17:05:03:572 INFO  MyLogger.info - doubleClick
+17:05:03:694 INFO  MyLogger.info - Starred button
+17:05:03:763 INFO  MyLogger.info - Compose button
+17:05:04:101 INFO  MyLogger.info - recipientInput
+17:05:05:007 INFO  MyLogger.info - subjectInput
+17:05:05:104 INFO  MyLogger.info - bodyInput
+17:05:05:581 INFO  MyLogger.info - saveAndCloseButton
+17:05:05:763 INFO  MyLogger.info - draftMailButton
+17:05:06:193 INFO  MyLogger.info - draftButton
+17:05:07:467 INFO  MyLogger.info - bodyResult
+17:05:07:933 INFO  MyLogger.info - sendButton
+17:05:08:271 INFO  MyLogger.info - doubleClick
+17:05:08:675 INFO  MyLogger.info - draftsButton
+17:05:08:830 INFO  MyLogger.info - noDraftsButton
+17:05:08:955 INFO  MyLogger.info - Compose button
+17:05:09:284 INFO  MyLogger.info - recipientInput
+17:05:09:852 INFO  MyLogger.info - subjectInput
+17:05:10:011 INFO  MyLogger.info - bodyInput
+17:05:10:352 INFO  MyLogger.info - sendButton
+17:05:10:722 INFO  MyLogger.info - imageButton
+17:05:10:994 INFO  MyLogger.info - signOutButton
